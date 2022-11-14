@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_form = 'info@youwebsite.com';
+$email_form = 'https://superb-dieffenbachia-2bf343.netlify.app/';
 
 $email_subject = 'email from website';
 
